@@ -1,8 +1,8 @@
 ## Brian Omariba's portfolio
 
-avatar:"images/brianomariba.jpg"
+#avatar:"images/brianomariba.jpg"
 
-round-avatar: true
+#round-avatar: true
 
 ### Who is Omariba :
 
@@ -53,6 +53,19 @@ social-network-links:
   twitter: true
   facebook: true
   linkedin: true
+  
+  
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 For more details see [Basic Development](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
