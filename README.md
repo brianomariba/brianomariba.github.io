@@ -1,4 +1,5 @@
 ## Brian Omariba's portfolio
+avatar:"images/brianomariba.jpg"
 ### Who is Omariba :
 
 Hi am Brian Omariba a Full Stack Software Developer  experienced in building robust Backend's and Frontend's for the web. Am that Geek who's always Learning,
@@ -29,6 +30,16 @@ My Git Hub
 
 
 ```
+social-network-links:
+  email: "brianomariba22@gmail.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: brianomariba22
+  github: brianomariba22
+  twitter: brianomariba22
+  patreon: brianomariba22
+  youtube: brianomariba22
+  telephone: +254724384646
+  instagram: brianomariba22
 
 For more details see [Basic Development](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
