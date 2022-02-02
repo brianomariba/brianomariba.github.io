@@ -1,5 +1,9 @@
 ## Brian Omariba's portfolio
+
 avatar:"images/brianomariba.jpg"
+
+round-avatar: true
+
 ### Who is Omariba :
 
 Hi am Brian Omariba a Full Stack Software Developer  experienced in building robust Backend's and Frontend's for the web. Am that Geek who's always Learning,
