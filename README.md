@@ -10,6 +10,8 @@ I use Creative thinking to write clean code and use Agile methodologies to achie
 Whenever you need a Software Engineer, help and advice in any Tech Spectrum, contact [Brian](https://twitter.com/brianomariba) to build Robust
 Web Applications, Android Applications  and also Game development.
 
+contact me: email: "brianomariba22@gmail.com"
+
 ### Reputation
 
 ```Reputation
