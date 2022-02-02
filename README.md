@@ -1,8 +1,6 @@
 ## Brian Omariba's portfolio
 
-#avatar:"images/brianomariba.jpg"
 
-#round-avatar: true
 
 ### Who is Omariba :
 
@@ -16,7 +14,7 @@ Whenever you need a Software Engineer, help and advice in any Tech Spectrum, con
 Web Applications, Android Applications  and also Game development.
 
 
-post_search: true
+
 
 contact me: email: "brianomariba22@gmail.com"
 
@@ -37,36 +35,14 @@ My Git Hub
 
 
 ```
-social-network-links:
-  email: "brianomariba22@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: brianomariba22
-  github: brianomariba22
-  twitter: brianomariba22
-  patreon: brianomariba22
-  youtube: brianomariba22
-  telephone: +254724384646
-  instagram: brianomariba22
-  
-  
-  share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  
-  
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
 
+ - email: "brianomariba22@gmail.com"
+  -github: brianomariba22
+  -twitter: brianomariba22
+  [Telephone]: +254724384646
+  
+  
+ 
 For more details see [Basic Development](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
